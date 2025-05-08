@@ -28,7 +28,9 @@ add photos of code
 
 **Results**
 
-add photos of lm
+<img width="928" alt="Screenshot 2025-05-08 at 3 25 56 AM" src="https://github.com/user-attachments/assets/95f9c769-fbd2-4528-87aa-c5db1c10f221" />
+
+<img width="927" alt="Screenshot 2025-05-08 at 3 23 00 AM" src="https://github.com/user-attachments/assets/3f4056e5-7960-4409-92a4-bfdb08c4cd0a" />
 
 - Strong relationship between salamander egg mass counts and every weather metric
 - Strong relationship between live salamander occurrence and precipitation and annual average maximum temperature
