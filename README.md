@@ -2,7 +2,7 @@
 
 ## About
 
-I am a 3rd year undergraduate student at Agnes Scott College pursuing a Bachelors of Science majoring in biology with a minor in environmental and sustainabilities.
+I am a 3rd year undergraduate student at Agnes Scott College pursuing a Bachelor of Science in Biology with a minor in Environmental and Sustainability Studies.  
 
 Contact: <mayhan591@agnesscott.edu>
 
@@ -12,11 +12,11 @@ Contact: <mayhan591@agnesscott.edu>
 
 **Course Overview**
 
-Data Intensive Ecology is a semester long course that aims to provide undergraduate students the opportunity to conduct directed research on a subject of their choice, developing skills in data analysis, ecological research, and science communication. 
+Data Intensive Ecology is a semester-long course that aims to provide undergraduate students the opportunity to conduct directed research on a subject of their choice, developing skills in data analysis, ecological research, and science communication. 
 
 **Project Reflection**
 
-While in this course, I learned how to access a variety of ecological databases and use R to wrangle and analyze data. I was also able to practice the critical skills of individual and collaborative problem solving as well as presenting research by participating in Agnes Scott’s Spring Annual Research Conference(SpARC). Through the completion of this course and research project, I believe, I gained a greater understanding of the scientific process and it’s nonlinear nature. This project went through many phases of various research questions, data sets, and methods of analysis; while these changes were inconvenient, I quickly learned each phase was an opportunity for redirection to the final research question, best fit set, and most accurate data analysis. 
+While in this course, I learned how to access various ecological databases and use R to wrangle and analyze data. I was also able to practice the critical skills of individual and collaborative problem-solving, as well as present research by participating in Agnes Scott’s Spring Annual Research Conference(SpARC). Through the completion of this course and research project, I believe I gained a greater understanding of the scientific process and its nonlinear nature. This project went through many phases of various research questions, data sets, and methods of analysis; while these changes were inconvenient, I quickly learned each phase was an opportunity for redirection to the final research question, best-fit set, and most accurate data analysis. 
 
 **Abstract**
 
@@ -33,3 +33,4 @@ add photos of lm
 - Strong relationship between salamander egg mass counts and every weather metric
 - Strong relationship between live salamander occurrence and precipitation and annual average maximum temperature
 - No relationship between species and any weather metric
+
