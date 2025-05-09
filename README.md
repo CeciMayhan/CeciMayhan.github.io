@@ -24,7 +24,11 @@ Salamanders, along with other amphibians, are known for being highly sensitive t
 
 **Methods**
 
-add photos of code
+<img width="462" alt="Screenshot 2025-05-08 at 7 13 31 PM" src="https://github.com/user-attachments/assets/701938e1-94f7-4e3c-9776-ccc2204c50bc" />
+
+<img width="527" alt="Screenshot 2025-05-08 at 7 12 05 PM" src="https://github.com/user-attachments/assets/004d08f4-9c18-437b-b60f-08d187a39897" />
+
+<img width="554" alt="Screenshot 2025-05-08 at 7 08 15 PM" src="https://github.com/user-attachments/assets/403f4ee1-6bf6-462b-b0b8-665d89a56dce" />
 
 **Results**
 
